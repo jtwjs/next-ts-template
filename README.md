@@ -27,3 +27,9 @@ $ yarn dev
 $ yarn build
 $ yarn start
 ```
+
+## 테스트
+- Jest
+```bash
+$ yarn test
+```
