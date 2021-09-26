@@ -1,6 +1,10 @@
 # Project Name
 ## Contributor
-- @jtwjs (정태웅)
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/jtwjs"><img src="https://user-images.githubusercontent.com/60641307/134805945-ff20e3cc-5c4a-4f97-be8e-4d9f30fd477b.jpg" width="100px;" alt=""/><br /><sub><b>taewoong jung</b></sub></a></td>
+  </tr>
+</table>
 
 ## Tech Requirement (Tech Stack)
 - Create-next-app
