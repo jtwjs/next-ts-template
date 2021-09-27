@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest --watch"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "docker:start": "docker run -p 3000:3000 next-ts-template",
+    "docker": "docker build . -t next-ts-template"
   },
   "dependencies": {
     "eslint-config-airbnb-typescript": "^14.0.0",
